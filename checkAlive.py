@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # This code is created for crontab to start dead thread
-# Author: 		lufyzhang
+# Author: 		vinsflyfish
 # Date:	  		20170206
 # LastModify:	20170206
 
